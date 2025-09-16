@@ -2,6 +2,7 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "ShellRunner",
 			"details": "https://github.com/phughes3866/ShellRunner",
 			"releases": [
 				{

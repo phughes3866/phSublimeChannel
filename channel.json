@@ -1,9 +1,6 @@
 {
-    "$schema": "sublime://packagecontrol.io/schemas/channel",
     "schema_version": "3.0.0",
     "repositories": [
     	"./repository.json"
-    ],
-    "packages_cache": {},
-    "libraries_cache": {}
+    ]
 }
