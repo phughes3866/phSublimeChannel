@@ -3,10 +3,48 @@
 	"packages": [
 		{
 			"name": "ShellRunner",
+			"labels": ["terminal", "productivity"],
 			"details": "https://github.com/phughes3866/ShellRunner",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"platforms": ["linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "SphinxRefMate",
+			"labels": ["sphinx", "documentation", "productivity"],
+			"details": "https://github.com/phughes3866/SphinxRefMate",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "reStAssured",
+			"labels": ["reStructuredText", "documentation", "productivity"],
+			"details": "https://github.com/phughes3866/reStAssured",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["linux"],
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "ScrapSaver",
+			"labels": ["linting", "code navigation", "productivity"],
+			"details": "https://github.com/phughes3866/ScrapSaver",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["linux"],
 					"tags": true
 				}
 			]
